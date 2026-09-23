@@ -1,5 +1,12 @@
 # Sabbatic
 
+> [!WARNING]
+> **This repository is archived and no longer maintained.**
+> Tools like OpenClaw have made this fork redundant: general-purpose AI agents can now
+> operate a stock [once-campfire](https://github.com/basecamp/once-campfire) directly
+> through its bot API, so the agent support this fork provided is no longer needed.
+> Use upstream Campfire instead.
+
 **A fork of [once-campfire](https://github.com/basecamp/once-campfire) with AI agent support**
 
 Sabbatic is a web-based chat application that extends Campfire with bot and AI agent capabilities. It supports all the features of Campfire, plus enhanced integration for automated agents:
